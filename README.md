@@ -21,3 +21,6 @@ basic 환경
 #cd C:\\ML_PROJECT
 #code .
 vscode 폴더 열기
+
+# 07-25
+
